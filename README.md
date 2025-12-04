@@ -1,0 +1,33 @@
+# Data-Structure
+
+![GitHub last commit](https://img.shields.io/github/last-commit/heyheyHazel/Convolutional-Neural-Network)
+![GitHub repo size](https://img.shields.io/github/repo-size/heyheyHazel/Convolutional-Neural-Network)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
+## 🎯 项目简介
+
+数据结构学习笔记，参考教程如下：
+
+- [【北京大学】数据结构与算法Python版（完整版）](https://www.bilibili.com/video/BV1VC4y1x7uv?spm_id_from=333.788.videopod.episodes&vd_source=b30b07507c510812227479ae70dadeba&p=18)
+
+
+## 📁 学习笔记
+
+- [0 引言 Preview——算法和计算复杂性](Data-Structure/src/01-Preview.ipynb)
+- [1 栈 Stack](Data-Structure/src/02-Stack.ipynb)
+
+
+
+## 🚀 快速开始
+
+### 环境配置
+
+```bash
+# 克隆仓库
+git clone https://github.com/heyheyHazel/Data-Structure.git
+cd Data-Structure
+
+# 创建虚拟环境并安装基础的包(conda)
+conda create -n python_env python=3.9 -y
+conda activate python_env
+conda install pytorch pandas numpy matplotlib ipykernel  -y
