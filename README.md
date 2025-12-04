@@ -13,8 +13,8 @@
 
 ## 📁 学习笔记
 
-- [0 引言 Preview——算法和计算复杂性](Data-Structure/src/01-Preview.ipynb)
-- [1 栈 Stack](Data-Structure/src/02-Stack.ipynb)
+- [0 引言 Preview](/src/01-Preview.ipynb)
+- [1 栈 Stack](/src/02-Stack.ipynb)
 
 
 
