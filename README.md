@@ -13,8 +13,8 @@
 
 ## 📁 学习笔记
 
-- [0 引言 Preview](/src/01-Preview.ipynb)
-- [1 栈 Stack](/src/02-Stack.ipynb)
+- [1. 引言 Preview](/src/01-Preview.ipynb)
+- [2. 栈 Stack](/src/02-Stack.ipynb)
 
 
 
