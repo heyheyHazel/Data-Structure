@@ -15,6 +15,7 @@
 
 - [1. 引言 Preview](/src/01-Preview.ipynb)
 - [2. 栈 Stack](/src/02-Stack.ipynb)
+- [3. 队列 Queue](/src/03-Queue.ipynb)
 
 
 
