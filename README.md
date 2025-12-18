@@ -19,6 +19,7 @@
 - [4. 列表 List](/src/04-List.ipynb)
 - [5. 递归 Recursion](/src/05-Recursion.ipynb)
 - [6. 递归优化问题 Recursion and Optimization](/src/06-Recursion-Optimization.ipynb)
+- [7. 排序与查找 Sorting and Searching](/src/07-Sorting-Searching.ipynb)
 
 
 
