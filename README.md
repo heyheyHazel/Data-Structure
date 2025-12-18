@@ -1,7 +1,7 @@
 # Data-Structure
 
-![GitHub last commit](https://img.shields.io/github/last-commit/heyheyHazel/Convolutional-Neural-Network)
-![GitHub repo size](https://img.shields.io/github/repo-size/heyheyHazel/Convolutional-Neural-Network)
+![GitHub last commit](https://img.shields.io/github/last-commit/heyheyHazel/Data-Structure)
+![GitHub repo size](https://img.shields.io/github/repo-size/heyheyHazel/Data-Structure)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 ## 🎯 项目简介
