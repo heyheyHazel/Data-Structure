@@ -21,7 +21,7 @@
 - [6. 递归优化问题 Recursion and Optimization](/src/06-Recursion-Optimization.ipynb)
 - [7. 排序与查找 Sorting and Searching](/src/07-Sorting-Searching.ipynb)
 - [8. 树 Tree](/src/08-Tree.ipynb)
-
+- [9. 图 Graph](/src/09-Graph.ipynb)
 
 
 
